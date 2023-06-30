@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+div{
+    align-self: center;
+    align-items: center;
+    width:fit-content;
+}
+form{
+    padding: 25px;
+    margin-left: 250px;
+    margin-top: 25px;
+    margin-right: 250px;
+    margin-bottom: 25px;
+    background-color: rgb(86, 193, 225);
+    display: flex;
+    width: 50%;
+    flex-direction: column;
+    width:fit-content;
+}
+label{
+    margin: 5px 5px;
+    background: rgb(250, 235, 215,);
+}
+.genderpara{
+    padding:25px 0px 15px 20px
+}
+.foodchoicepara{
+    display: grid;
+}
+table, th, td {
+    border: 1px solid rgb(19, 19, 234);
+    border-collapse: collapse;
+  }

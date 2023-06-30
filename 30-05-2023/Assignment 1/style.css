@@ -1,0 +1,60 @@
+body{
+    margin: 0px;
+    font-size: medium;
+}
+.container1{
+    width: 100%;
+    background-color: black
+}
+.header{
+    margin-left: 10px;
+    size: 3px;
+}
+span{
+    color:beige;
+    padding: 0px 5px;
+    font-size: 18px;
+}
+
+.text1{
+    text-align: center;
+    margin-top: 25%;
+    margin-bottom: 25%;
+    
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.container2{
+    margin: 3px 10px;
+}
+img{
+    position: relative;
+    top: 10px;
+    left: 25px;
+}
+.button{
+   text-align: center;
+   padding-bottom: 20px;
+}
+.quote{
+   padding-top: 5px;
+   text-align: center;
+   margin-top: 5px;
+}
+.card-title, .card-subtitle{
+   font-size: 10px;
+}
+.card-text{
+   font-size: 9px;
+}
+.others{
+   text-align: center;
+}
+.list{
+   font-size: 9px;
+}
+.container{
+   background-color: black;
+   
+   width: 100%;
+}

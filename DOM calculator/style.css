@@ -1,0 +1,72 @@
+*{
+    box-sizing: border-box;
+    font-family: sans-serif;
+    outline: none;
+}
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Buttons{
+    border: 2px solid rgb(20, 180, 216);
+    border-radius: 5px;
+    padding: 5px;
+    border-width: 3px;
+    margin: 10px;
+    display: grid ;
+    grid-template-columns: repeat(4,70px);
+    align-content: center; 
+    background-image: linear-gradient(rgb(17, 222, 226),rgb(52, 237, 104));
+}
+input{
+    display: grid;
+    grid-column:span 4;
+    height: 75px;
+    width: 280px;
+    background-color:rgb(255, 255, 255);
+    border:2px solid rgb(38, 203, 228);
+    border-radius: 5px;
+    font-size: 55px;
+    color:black;
+    text-align: end;
+    margin-top: 5px;
+    margin-bottom: 25px; 
+    padding-right: 3px;
+}
+/* input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+} */
+button{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(189, 215, 237);
+    border: 2px solid rgb(13, 50, 237);
+    border-radius: 60%;
+    margin: 10px;
+    font-size: 20px;
+    font: bold;
+}
+button:hover{
+    height: 60px;
+    width: 60px;
+    background-color: rgb(217, 223, 106);
+    border: 2px solid rgb(13, 50, 237);
+}
+.Equalbutton{
+    width: 50px;
+    border: 2px solid rgb(0, 2, 9);
+    border-radius:30px;
+    background-color:rgb(147, 234, 157);
+}
+.Equalbutton:hover{
+    background-color:rgb(179, 88, 232);
+}
+input:hover{
+    height: 90px;
+    width: 280px;
+    font-size: 75px;
+}
