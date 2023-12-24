@@ -1,0 +1,45 @@
+.Title{
+    height: 7vh;
+    width: 100%;
+    color: blue;
+    text-shadow: 2px 2px black;
+}
+.loginscreen{
+    background-color: rgb(247, 244, 232);
+    height: 80vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.jumbotron1{
+    border: 1px solid rgb(176, 174, 174);
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(59, 59, 74, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    border-radius: 2%;
+    width: 30%;
+}
+.anchorlink{
+    text-decoration: none;
+}
+.closebuttonx{
+    color: red;
+}
+
+@media only screen and (max-width: 1000px) {
+    .Title{
+        text-shadow: none;
+    }
+    .jumbotron1{
+        width: 80%;
+    }
+    }
+
+@media only screen and (max-width: 700px) {
+    .Title{
+        text-shadow: none;
+    }
+    .jumbotron1{
+        width: fit-content;
+    }
+    }

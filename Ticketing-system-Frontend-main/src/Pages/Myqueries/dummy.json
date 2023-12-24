@@ -1,0 +1,219 @@
+[
+    {
+       "queryno":"1",
+       "history": [
+           {
+             "date": "20-10-10",
+             "file":"https://user-images.githubusercontent.com/35040146/100720655-54036200-33e4-11eb-9b08-357077675ff2.png",
+             "message": "This is mentor",
+             "messageBy": "mentor"
+           },
+           {
+             "date": "20-10-10",
+             "file":"https://user-images.githubusercontent.com/35040146/100720655-54036200-33e4-11eb-9b08-357077675ff2.png",
+             "messageBy": "student"
+           },
+           {
+             "date": "20-10-10",
+             "file":null,
+             "messageBy": "mentor"
+           },
+           {
+               "date": "20-10-10",
+               "file":"https://user-images.githubusercontent.com/35040146/100720655-54036200-33e4-11eb-9b08-357077675ff2.png",
+               "message": "This is mentor",
+               "messageBy": "mentor"
+             },
+             {
+               "date": "20-10-10",
+               "file":"https://user-images.githubusercontent.com/35040146/100720655-54036200-33e4-11eb-9b08-357077675ff2.png",
+               "message": "sjflsfgjfgnjfgjngfnfmjhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhgnjl",
+               "messageBy": "student"
+             },
+             {
+               "date": "20-10-10",
+               "file":null,
+               "message": "sjflsfgjfgnjfgjngfnfgnjl",
+               "messageBy": "mentor"
+             },
+             {
+               "date": "20-10-10",
+               "file":"https://user-images.githubusercontent.com/35040146/100720655-54036200-33e4-11eb-9b08-357077675ff2.png",
+               "message": "sjflsjnfgfgfgjhl",
+               "messageBy": "mentor"
+             },
+             {
+               "date": "20-10-10",
+               "file":null,
+               "message": "sjflfgjfgjfgjgfjgjsjl",
+               "messageBy": "student"
+             },
+             {
+               "date": "20-10-10",
+               "file":"https://user-images.githubusercontent.com/35040146/100720655-54036200-33e4-11eb-9b08-357077675ff2.png",
+               "message": "sjflsfgjfgnjfgjngfnfgnjl",
+               "messageBy": "mentor"
+             }
+         ],
+       "title": "API call Request",   
+       "category":"Zenclassdoubt",
+       "status":"closed",
+       "time":"none",
+       "mentorname":"raj"
+   },
+   {
+     "queryno":"2",
+       "title": "arrow",   
+       "category":"Zenclassdoubt",
+       "status":"Assigned",
+       "time":"none",
+       "mentorname":"bopal"
+   },
+   {
+     "queryno":"3",
+       "title": "functions",   
+       "category":"Zenclassdoubt",
+       "status":"closed",
+       "time":"none",
+       "mentorname":"raj"
+   },
+   {
+    "queryno":"4",
+      "title": "functions",   
+      "category":"Zenclassdoubt",
+      "status":"un Assigned",
+      "time":"none"
+  },
+  {
+    "queryno":"5",
+    "history": [
+        {
+          "date": "20-10-10",
+          "file":"https://user-images.githubusercontent.com/35040146/100720655-54036200-33e4-11eb-9b08-357077675ff2.png",
+          "message": "This is mentor",
+          "messageBy": "mentor"
+        },
+        {
+          "date": "20-10-10",
+          "file":"https://user-images.githubusercontent.com/35040146/100720655-54036200-33e4-11eb-9b08-357077675ff2.png",
+          "messageBy": "student"
+        },
+        {
+          "date": "20-10-10",
+          "file":null,
+          "messageBy": "mentor"
+        },
+        {
+            "date": "20-10-10",
+            "file":"https://user-images.githubusercontent.com/35040146/100720655-54036200-33e4-11eb-9b08-357077675ff2.png",
+            "message": "This is mentor",
+            "messageBy": "mentor"
+          },
+          {
+            "date": "20-10-10",
+            "file":"https://user-images.githubusercontent.com/35040146/100720655-54036200-33e4-11eb-9b08-357077675ff2.png",
+            "message": "sjflsfgjfgnjfgjngfnfmjhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhgnjl",
+            "messageBy": "student"
+          },
+          {
+            "date": "20-10-10",
+            "file":null,
+            "message": "sjflsfgjfgnjfgjngfnfgnjl",
+            "messageBy": "mentor"
+          },
+          {
+            "date": "20-10-10",
+            "file":"https://user-images.githubusercontent.com/35040146/100720655-54036200-33e4-11eb-9b08-357077675ff2.png",
+            "message": "sjflsjnfgfgfgjhl",
+            "messageBy": "mentor"
+          },
+          {
+            "date": "20-10-10",
+            "file":null,
+            "message": "sjflfgjfgjfgjgfjgjsjl",
+            "messageBy": "student"
+          },
+          {
+            "date": "20-10-10",
+            "file":"https://user-images.githubusercontent.com/35040146/100720655-54036200-33e4-11eb-9b08-357077675ff2.png",
+            "message": "sjflsfgjfgnjfgjngfnfgnjl",
+            "messageBy": "mentor"
+          }
+      ],
+      "title": "html",   
+      "category":"Zenclassdoubt",
+      "status":"closed",
+      "time":"none",
+      "mentorname":"raj"
+  },
+  {
+    "queryno":"6",
+    "history": [
+        {
+          "date": "20-10-10",
+          "file":"https://user-images.githubusercontent.com/35040146/100720655-54036200-33e4-11eb-9b08-357077675ff2.png",
+          "message": "This is mentor",
+          "messageBy": "mentor"
+        },
+        {
+          "date": "20-10-10",
+          "file":"https://user-images.githubusercontent.com/35040146/100720655-54036200-33e4-11eb-9b08-357077675ff2.png",
+          "messageBy": "student"
+        },
+        {
+          "date": "20-10-10",
+          "file":null,
+          "messageBy": "mentor"
+        },
+        {
+            "date": "20-10-10",
+            "file":"https://user-images.githubusercontent.com/35040146/100720655-54036200-33e4-11eb-9b08-357077675ff2.png",
+            "message": "This is mentor",
+            "messageBy": "mentor"
+          },
+          {
+            "date": "20-10-10",
+            "file":"https://user-images.githubusercontent.com/35040146/100720655-54036200-33e4-11eb-9b08-357077675ff2.png",
+            "message": "sjflsfgjfgnjfgjngfnfmjhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhgnjl",
+            "messageBy": "student"
+          },
+          {
+            "date": "20-10-10",
+            "file":null,
+            "message": "sjflsfgjfgnjfgjngfnfgnjl",
+            "messageBy": "mentor"
+          },
+          {
+            "date": "20-10-10",
+            "file":"https://user-images.githubusercontent.com/35040146/100720655-54036200-33e4-11eb-9b08-357077675ff2.png",
+            "message": "sjflsjnfgfgfgjhl",
+            "messageBy": "mentor"
+          },
+          {
+            "date": "20-10-10",
+            "file":null,
+            "message": "sjflfgjfgjfgjgfjgjsjl",
+            "messageBy": "student"
+          },
+          {
+            "date": "20-10-10",
+            "file":"https://user-images.githubusercontent.com/35040146/100720655-54036200-33e4-11eb-9b08-357077675ff2.png",
+            "message": "sjflsfgjfgnjfgjngfnfgnjl",
+            "messageBy": "mentor"
+          }
+      ],
+      "title": "css",   
+      "category":"Zenclassdoubt",
+      "status":"Assigned",
+      "time":"none",
+      "mentorname":"raj"
+  },
+  {
+    "queryno":"7",
+      "title": "react",   
+      "category":"Zenclassdoubt",
+      "status":"un Assigned",
+      "time":"none"
+  }
+
+]

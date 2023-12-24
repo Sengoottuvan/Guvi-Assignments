@@ -1,0 +1,116 @@
+.divcreatequery{
+    width: 30%;
+}
+.buttonavigate{
+    border: 2px solid rgb(255, 72, 0);
+    border-radius: 5px;
+    background-color: white;
+    color: rgb(255, 0, 0);
+    font-weight: 700;
+    font-size: 1.3rem;
+    margin-top: 2%;
+    margin-left: 2%;
+    justify-content: center; 
+}
+.Createqueryformfill{
+    background-color: bisque;
+    background-color: rgb(247, 244, 232);
+    /* height: 80vh; */
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.jumbotron2{
+    border: 1px solid rgb(176, 174, 174);
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(59, 59, 74, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    border-radius: 2%;
+    width: 50%;
+    margin-top: 5px;
+}
+.topicnames{
+     padding-left:8px;
+     padding-top: 5px;
+     padding-bottom:3px;
+     font-size: 25px;
+     color: blue;
+}
+.categoryselect{
+    width: 90%;
+    border: 1px sold blue;
+    padding-bottom: 10px;
+    border-radius: 5px;
+}
+
+.labelnames{
+    text-align: start;
+    padding-left:8px;
+    padding-bottom:8px;
+    font-size: 18px;
+    color: rgb(90, 90, 90);
+}
+.labelnames2{
+    text-align: start;
+    padding-left:8px;
+    padding-bottom:8px;
+    padding-top: 8px;
+    font-size: 18px;
+    color: rgb(90, 90, 90);
+}
+.Timedescription{
+ text-align: start;
+ margin-left: 5px;
+ margin-top: 0px;
+ color: red;
+ font-size: 12px;
+}
+.fileupload{
+    text-align: start;
+    margin-left: 10px;
+    margin-top: 0;
+    color: blue;
+    width: 50px;
+    height: 50px;
+}
+.fileuploadicon{
+    width: 60px;
+    height: 60px;
+}
+.topicnames2{
+    padding-left:8px;
+    padding-top: 5px;
+    font-size: 25px;
+    color: blue;
+}
+.uploadimagebutton{
+    background-color: white;
+    color: blue;
+    border: none;
+}
+.closebuttonquery{
+    background-color: rgb(235, 233, 233);
+    color: rgb(255, 0, 0);
+    border: 2px solid rgb(255, 0, 0);
+}
+.changefilebutton{
+    background-color: rgb(176, 176, 176);
+    color: blue;
+    border: 2px solid blue;
+    border-radius: 3px;
+    margin-left: 5px;
+}
+.multipleselect{
+    border: 1px solid black;
+    text-align: center;
+}
+@media only screen and (max-width: 1000px) {
+    .jumbotron2{
+        width: 80%;
+    }
+    }
+
+@media only screen and (max-width: 700px) {
+    .jumbotron2{
+        width: 100%;
+    }
+    }

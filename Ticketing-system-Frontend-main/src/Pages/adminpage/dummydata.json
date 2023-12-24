@@ -1,0 +1,92 @@
+[
+    {
+      "QueryNo": 1,
+      "Category": "Zen-Class Doubt",
+      "SubCategory": "none",
+      "Title": "react",
+      "Description": "Due to the widespread use of tables across third-party widgets like calendars and date pickers, we’ve designed our tables to be opt-in. Just add the base class .",
+      "Language": "Tamil",
+      "status": "closed"
+    },
+    {
+      "QueryNo": 2,
+      "Category": "Zen-Class Doubt",
+      "SubCategory": "none",
+      "Title": "node",
+      "Description": "Due to the widespread use of tables across third-party widgets like calendars and date pickers, we’ve designed our tables to be opt-in. Just add the base class .",
+      "Language": "English",
+      "status": "Assigned"
+    },
+    {
+      "QueryNo": 3,
+      "Category": "Zen-Class Doubt",
+      "SubCategory": "none",
+      "Title": "js",
+      "Description": "Due to the widespread use of tables across third-party widgets like calendars and date pickers, we’ve designed our tables to be opt-in. Just add the base class .",
+      "Language": "Hindi",
+      "status": "UnAssigned"
+    },
+    {
+      "QueryNo": 4,
+      "Category": "Placement Related",
+      "SubCategory": "none",
+      "Title": "js",
+      "Description": "Due to the widespread use of tables across third-party widgets like calendars and date pickers, we’ve designed our tables to be opt-in. Just add the base class .",
+      "Language": "English",
+      "status": "UnAssigned"
+    },
+    {
+      "QueryNo": 5,
+      "Category": "Placement Related",
+      "SubCategory": "none",
+      "Title": "js",
+      "Description": "Due to the widespread use of tables across third-party widgets like calendars and date pickers, we’ve designed our tables to be opt-in. Just add the base class .",
+      "Language": "English",
+      "status": "Assigned"
+    },
+    {
+      "QueryNo": 6,
+      "Category": "Placement Related",
+      "SubCategory": "none",
+      "Title": "js",
+      "Description": "Due to the widespread use of tables across third-party widgets like calendars and date pickers, we’ve designed our tables to be opt-in. Just add the base class .",
+      "Language": "Tamil",
+      "status": "UnAssigned"
+    },
+    {
+      "QueryNo": 7,
+      "Category": "Coordination Related",
+      "SubCategory": "none",
+      "Title": "js",
+      "Description": "Due to the widespread use of tables across third-party widgets like calendars and date pickers, we’ve designed our tables to be opt-in. Just add the base class .",
+      "Language": "English",
+      "status": "Assigned"
+    },
+    {
+      "QueryNo": 8,
+      "Category": "Coordination Related",
+      "SubCategory": "none",
+      "Title": "js",
+      "Description": "Due to the widespread use of tables across third-party widgets like calendars and date pickers, we’ve designed our tables to be opt-in. Just add the base class .",
+      "Language": "Hindi",
+      "status": "closed"
+    },
+    {
+      "QueryNo": 9,
+      "Category": "Coordination Related",
+      "SubCategory": "none",
+      "Title": "js",
+      "Description": "Due to the widespread use of tables across third-party widgets like calendars and date pickers, we’ve designed our tables to be opt-in. Just add the base class .",
+      "Language": "Tamil",
+      "status": "closed"
+    },
+    {
+      "QueryNo": 10,
+      "Category": "Pre-bootcamp Related",
+      "SubCategory": "none",
+      "Title": "js",
+      "Description": "Due to the widespread use of tables across third-party widgets like calendars and date pickers, we’ve designed our tables to be opt-in. Just add the base class .",
+      "Language": "Hindi",
+      "status": "Assigned"
+    }
+  ]

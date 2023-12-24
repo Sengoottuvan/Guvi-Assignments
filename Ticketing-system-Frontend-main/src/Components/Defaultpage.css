@@ -1,0 +1,82 @@
+.headercontent{
+    background-color: white;
+    box-shadow: rgba(59, 59, 74, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    /* padding: 5px; */
+}
+.headercontenth1{
+       font-size: 30px;
+       font-weight: bold;
+       color: rgb(0, 0, 0);
+       padding: 1%;
+       justify-content: center;
+       
+}
+.Content{
+    min-height: 90vh;
+}
+.Avatar{
+    padding-right: 2%;
+    justify-content: center;
+}
+.anchorlinkbooking{
+    text-decoration: none;
+}
+.anchorlinkhead{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+.userpageicos{
+  color:firebrick;
+  margin-left: 5px;
+  width: 30px;
+}
+.defaultlogoimage{
+    width: 30px;
+    height: 30px;
+}
+.profileicons{
+margin-left: 10%;
+}
+.Navbardefaultlayout{
+    background-color: rgb(235, 255, 248);
+}
+.defaultlogoimage{
+    width: 30px;
+    height: 40px;
+    margin-right: 2%;
+}
+.Footername{
+    color: rgb(255, 255, 255);
+    font-size: 1.5rem;
+}
+.defaultlogoimagefooter{
+    width: 35px;
+    height: 45px;
+    margin: 0 0.5%;
+}
+.icondefault{
+    width: 35px;
+    height: 45px;
+}
+.headersection{
+    background-color: rgb(179, 176, 251);
+}
+.linktopages{
+    text-decoration: none;
+    font-size: 20px;
+}
+.footersection{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.footericon{
+    width: 35px;
+    height: 45px;
+    margin: 0 0.5%;
+}
+@media only screen and (max-width: 1000px) {
+    /* .Navbardefaultbox{
+        display: grid;
+        grid-template-columns: 10%;
+     } */
+    }

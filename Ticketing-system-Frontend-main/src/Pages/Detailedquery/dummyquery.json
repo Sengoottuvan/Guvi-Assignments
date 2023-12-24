@@ -1,0 +1,79 @@
+[
+    {
+        "queryno":"1",
+        "history": [
+            {
+              "date": "20-10-10",
+              "message": "sjflsjl",
+              "messageBy": "mentor"
+            },
+            {
+              "date": "20-10-10",
+              "message": "sjflsjl",
+              "messageBy": "student"
+            },
+            {
+              "date": "20-10-10",
+              "message": "sjflsjl",
+              "messageBy": "mentor"
+            }
+          ]
+    },
+    {
+        "queryno":"2",
+        "history": [
+            {
+              "date": "20-10-10",
+              "file":"https://user-images.githubusercontent.com/35040146/100720655-54036200-33e4-11eb-9b08-357077675ff2.png",
+              "message": "This is mentor",
+              "messageBy": "mentor"
+            },
+            {
+              "date": "20-10-10",
+              "file":"https://user-images.githubusercontent.com/35040146/100720655-54036200-33e4-11eb-9b08-357077675ff2.png",
+              "messageBy": "student"
+            },
+            {
+              "date": "20-10-10",
+              "file":null,
+              "messageBy": "mentor"
+            },
+            {
+                "date": "20-10-10",
+                "file":"https://user-images.githubusercontent.com/35040146/100720655-54036200-33e4-11eb-9b08-357077675ff2.png",
+                "message": "This is mentor",
+                "messageBy": "mentor"
+              },
+              {
+                "date": "20-10-10",
+                "file":"https://user-images.githubusercontent.com/35040146/100720655-54036200-33e4-11eb-9b08-357077675ff2.png",
+                "message": "sjflsfgjfgnjfgjngfnfmjhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhgnjl",
+                "messageBy": "student"
+              },
+              {
+                "date": "20-10-10",
+                "file":null,
+                "message": "sjflsfgjfgnjfgjngfnfgnjl",
+                "messageBy": "mentor"
+              },
+              {
+                "date": "20-10-10",
+                "file":"https://user-images.githubusercontent.com/35040146/100720655-54036200-33e4-11eb-9b08-357077675ff2.png",
+                "message": "sjflsjnfgfgfgjhl",
+                "messageBy": "mentor"
+              },
+              {
+                "date": "20-10-10",
+                "file":null,
+                "message": "sjflfgjfgjfgjgfjgjsjl",
+                "messageBy": "student"
+              },
+              {
+                "date": "20-10-10",
+                "file":"https://user-images.githubusercontent.com/35040146/100720655-54036200-33e4-11eb-9b08-357077675ff2.png",
+                "message": "sjflsfgjfgnjfgjngfnfgnjl",
+                "messageBy": "mentor"
+              }
+          ]
+    }
+]
