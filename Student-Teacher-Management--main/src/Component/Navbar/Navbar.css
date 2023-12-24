@@ -1,0 +1,87 @@
+.Navbar{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(131, 189, 244);
+    border-radius: 0.5rem;
+    display: flex;
+    align-items: center;
+    /* border: 1px solid black; */
+}
+.Inputbar{
+    margin-left: 0.5rem;
+    width: 80%;
+    /* border: 1px solid black; */
+    
+}
+/* .user>span{
+    background-color:rgb(131, 189, 244);
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+.InputNavbaruser{
+    width: 60%;
+    justify-content: start;
+    text-align: start;
+    /* border: 1px solid black; */
+}
+
+.user{
+    width: 50%;
+justify-content: end;
+text-align: end;
+/* border: 1px solid black; */
+
+}
+
+
+@media screen and (min-width: 520px){
+    /* .InputNavbaruser{
+        position: relative;
+        
+        }
+        .user{
+            position: absolute;
+            right: 2%;
+            padding: 2px;
+        } */
+}
+
+.user ul{
+    text-align: right;
+    margin-left: 75px;
+}
+.user ul li{
+    display: inline-block;
+    list-style: none;
+    margin:3px 3px;
+}
+.Dropdownlist{
+    background-color: rgb(133, 235, 167);
+}
+@media screen and (max-width: 750px) {
+.user ul{
+    text-align: right;
+    margin-left: 10px;
+}  
+    .user ul li{
+       
+        list-style: none;
+
+        margin: 1px 1px;
+    } 
+    .Navbarname{
+        display: none;
+    }
+    
+
+}
+@media screen and (max-width: 450px) {
+  
+      
+    }
+
+

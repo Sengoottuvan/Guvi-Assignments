@@ -1,0 +1,27 @@
+h3{
+    display: inline-block;
+    margin: 5px;
+    color: rgb(46, 21, 234);
+    text-shadow: 2px 3px rgb(159, 148, 227);
+}
+h4{
+    display: inline-block;
+    margin: 5px;
+    color: rgb(234, 21, 67);
+    text-shadow: 2px 3px rgb(236, 196, 244);
+}
+
+.utilitycolorconent{
+    /* border: 2px solid black; */
+    border-radius: 1.5rem;
+    height: 500px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.utilitiyborders{
+    border-radius: 1.5rem;
+    height: 600px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}

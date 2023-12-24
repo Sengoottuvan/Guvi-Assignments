@@ -1,0 +1,25 @@
+.Tablecontent{
+    height: 65%;
+    overflow-y:scroll ;
+}
+
+
+table{
+    border: 2px solid rgb(234, 24, 24);
+    margin: 5px;
+    background-color:rgb(244, 230, 214);
+}
+thead,th{
+    background-color: burlywood;
+    margin: 10px;
+}
+
+th,tr,td{
+    border: 1px solid brown;
+}
+td{
+    padding: 10px;
+}
+tr,td{
+    text-align: left;
+}

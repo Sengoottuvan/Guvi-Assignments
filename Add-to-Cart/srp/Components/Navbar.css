@@ -1,0 +1,9 @@
+#navbar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }

@@ -1,0 +1,30 @@
+.Tablecontent{
+    margin: 3%;
+}
+.cardfortable{
+    height: 75vh;
+    overflow-y:scroll ;
+    overflow-x: scroll;
+    display: flex;
+    /* border: 1px solid black; */
+}
+
+table{
+    border: 2px solid rgb(234, 24, 24);
+    margin: 5px;
+    background-color:rgb(244, 230, 214);
+}
+thead,th{
+    background-color: burlywood;
+    margin:7px;
+}
+
+th,tr,td{
+    border: 1px solid brown;
+}
+td{
+    padding: 10px;
+}
+tr,td{
+    text-align: left;
+}
